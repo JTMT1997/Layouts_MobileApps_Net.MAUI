@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiLayouts.Pages.AbsoluteLayoutDemo"
+             Title="AbsoluteLayoutDemo"
+             BackgroundColor="white">
+    <AbsoluteLayout>
+        <Button BackgroundColor="blue" TextColor="white" Text="HeightProportional" AbsoluteLayout.LayoutBounds="10,20,200,50" AbsoluteLayout.LayoutFlags="HeightProportional"  ></Button>
+        <Button BackgroundColor="green" TextColor="white" Text="WidthProportional" AbsoluteLayout.LayoutBounds="10,90,300,2" AbsoluteLayout.LayoutFlags="WidthProportional"  ></Button>
+        <Button BackgroundColor="red" TextColor="white" Text="SizeProportional" AbsoluteLayout.LayoutBounds="10,250,4,50" AbsoluteLayout.LayoutFlags="SizeProportional"  ></Button>
+
+        <Button BackgroundColor="Yellow" TextColor="white" Text="XProportional" AbsoluteLayout.LayoutBounds="10,300,4,2" AbsoluteLayout.LayoutFlags="XProportional"  ></Button>
+    </AbsoluteLayout>
+</ContentPage>

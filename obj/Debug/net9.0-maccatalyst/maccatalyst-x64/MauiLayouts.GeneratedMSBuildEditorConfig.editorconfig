@@ -1,0 +1,85 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiLayouts
+build_property.ProjectDir = D:\MauiLayouts\MauiLayouts\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/MauiLayouts/MauiLayouts/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/MauiLayouts/MauiLayouts/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/MauiLayouts/MauiLayouts/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/MauiLayouts/MauiLayouts/Pages/AbsoluteLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Pages.AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AbsoluteLayoutDemo.xaml
+
+[D:/MauiLayouts/MauiLayouts/Pages/FlexLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Pages.FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\FlexLayoutDemo.xaml
+
+[D:/MauiLayouts/MauiLayouts/Pages/GridDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Pages.GridDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\GridDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\GridDemo.xaml
+
+[D:/MauiLayouts/MauiLayouts/Pages/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Pages.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HorizontalStackLayoutDemo.xaml
+
+[D:/MauiLayouts/MauiLayouts/Pages/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Pages.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\StackLayoutDemo.xaml
+
+[D:/MauiLayouts/MauiLayouts/Pages/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Pages.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\VerticalStackLayoutDemo.xaml
+
+[D:/MauiLayouts/MauiLayouts/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/MauiLayouts/MauiLayouts/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLayouts.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

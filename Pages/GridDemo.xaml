@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiLayouts.Pages.GridDemo"
+             Title="GridDemo">
+    <Grid ColumnSpacing="10" RowSpacing="10">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="0"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="1"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="2"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="3"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="0" Grid.Column="4"></Label>
+
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="0"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="1"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="2"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="3"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="4"></Label>
+
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="2" Grid.Column="0"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="2" Grid.Column="1"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="2" Grid.Column="2"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="2" Grid.Column="3"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="2" Grid.Column="4"></Label>
+
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="3" Grid.Column="0"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="3" Grid.Column="1"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="3" Grid.Column="2"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="3" Grid.Column="3"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="3" Grid.Column="4"></Label>
+
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="4" Grid.Column="0"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="4" Grid.Column="1"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="4" Grid.Column="2"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="4" Grid.Column="3"></Label>
+        <Label Text="Demo" BackgroundColor="#7c7c7c" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Grid.Row="4" Grid.Column="4"></Label>
+    </Grid>
+</ContentPage>

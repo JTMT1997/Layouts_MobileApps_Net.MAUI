@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\flexlayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\flexlayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\flexlayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\flexlayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\absolutelayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\absolutelayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\griddemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\griddemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\horizontalstacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\horizontalstacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\stacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\stacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\stacklayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\stacklayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\absolutelayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\absolutelayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\horizontalstacklayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\horizontalstacklayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\griddemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\griddemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\verticalstacklayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\verticalstacklayoutdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\pages\\verticalstacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:pages\\verticalstacklayoutdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|c:\\users\\jhiej\\source\\repos\\mauilayouts\\mauilayouts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E57E2438-BEFF-48B4-B1BA-95DA5A009A3B}|MauiLayouts.csproj|solutionrelative:mauilayouts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlexLayoutDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\FlexLayoutDemo.xaml",
+              "RelativeDocumentMoniker": "Pages\\FlexLayoutDemo.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\FlexLayoutDemo.xaml",
+              "RelativeToolTip": "Pages\\FlexLayoutDemo.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T05:59:09.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackLayoutDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\StackLayoutDemo.xaml",
+              "RelativeDocumentMoniker": "Pages\\StackLayoutDemo.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\StackLayoutDemo.xaml",
+              "RelativeToolTip": "Pages\\StackLayoutDemo.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T00:16:29.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StackLayoutDemo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\StackLayoutDemo.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\StackLayoutDemo.xaml.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\StackLayoutDemo.xaml.cs",
+              "RelativeToolTip": "Pages\\StackLayoutDemo.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:48:29.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlexLayoutDemo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\FlexLayoutDemo.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\FlexLayoutDemo.xaml.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\FlexLayoutDemo.xaml.cs",
+              "RelativeToolTip": "Pages\\FlexLayoutDemo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:59:23.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbsoluteLayoutDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\AbsoluteLayoutDemo.xaml",
+              "RelativeDocumentMoniker": "Pages\\AbsoluteLayoutDemo.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\AbsoluteLayoutDemo.xaml",
+              "RelativeToolTip": "Pages\\AbsoluteLayoutDemo.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T04:40:19.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\GridDemo.xaml",
+              "RelativeDocumentMoniker": "Pages\\GridDemo.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\GridDemo.xaml",
+              "RelativeToolTip": "Pages\\GridDemo.xaml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBgAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T02:33:07.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HorizontalStackLayoutDemo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\HorizontalStackLayoutDemo.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\HorizontalStackLayoutDemo.xaml.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\HorizontalStackLayoutDemo.xaml.cs",
+              "RelativeToolTip": "Pages\\HorizontalStackLayoutDemo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:31:06.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HorizontalStackLayoutDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\HorizontalStackLayoutDemo.xaml",
+              "RelativeDocumentMoniker": "Pages\\HorizontalStackLayoutDemo.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\HorizontalStackLayoutDemo.xaml",
+              "RelativeToolTip": "Pages\\HorizontalStackLayoutDemo.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T02:33:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AbsoluteLayoutDemo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\AbsoluteLayoutDemo.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AbsoluteLayoutDemo.xaml.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\AbsoluteLayoutDemo.xaml.cs",
+              "RelativeToolTip": "Pages\\AbsoluteLayoutDemo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T04:40:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerticalStackLayoutDemo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\VerticalStackLayoutDemo.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\VerticalStackLayoutDemo.xaml.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\VerticalStackLayoutDemo.xaml.cs",
+              "RelativeToolTip": "Pages\\VerticalStackLayoutDemo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:32:10.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GridDemo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\GridDemo.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\GridDemo.xaml.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\GridDemo.xaml.cs",
+              "RelativeToolTip": "Pages\\GridDemo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:33:12.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VerticalStackLayoutDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\VerticalStackLayoutDemo.xaml",
+              "RelativeDocumentMoniker": "Pages\\VerticalStackLayoutDemo.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\Pages\\VerticalStackLayoutDemo.xaml",
+              "RelativeToolTip": "Pages\\VerticalStackLayoutDemo.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-18T02:32:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:21:48.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiLayouts",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\MauiLayouts.csproj",
+              "RelativeDocumentMoniker": "MauiLayouts.csproj",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\MauiLayouts\\MauiLayouts.csproj",
+              "RelativeToolTip": "MauiLayouts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T00:14:44.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
